@@ -19,17 +19,17 @@ def peak1d(array):
         if array[mid+1] > array[mid-1]:
             start = mid + 1
             #print start, array[start:]
-            return peak1d2(array[start:])
+            return peak1d(array[start:])
         else:
             stop = mid-1
             #print stop, array[:stop+1]
-            return peak1d2(array[:stop+1])
+            return peak1d(array[:stop+1])
     elif mid >0 and array[mid+1] > array[mid]:
         start = mid + 1
         return peak1d2(array[:stop+1])
     elif mid >0 and array[mid+1] > array[mid]:
         stop = mid-1
-        return peak1d2(array[start:])
+        return peak1d(array[start:])
     else:
         return array[mid]
         
