@@ -12,7 +12,7 @@ Lecture 1 : Peak finding algorithm for 2D arrays
 def global_max(array):
     """ This function finds the global maximum of 1D array.
     This will be required in a 2D peak finding algorithm to
-    find global of a column.
+    find global maximum of a column.
     Input: A 1D array of values
     Output: Global maximum of the array.
     Complexity: O(n)"""
