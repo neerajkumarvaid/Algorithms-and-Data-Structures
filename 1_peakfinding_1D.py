@@ -3,7 +3,7 @@
 Created on Mon Jun  3 19:13:45 2019
 
 @author: Neeraj
-Lecture 1 : Peak finding algorithm for 1D
+Lecture 1 : Peak finding algorithm for 1D arrays
 
 """
 
