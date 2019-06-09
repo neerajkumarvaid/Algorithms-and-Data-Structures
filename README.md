@@ -1,5 +1,5 @@
 # Algorithm-and-Data-Structures-MIT-6.006
-This repository contains my implementation of the algorithms discussed in 6.006 CS course of MIT OCW. I used Python 3.7 to code these algorithms.  
+This repository contains my implementation of the algorithms discussed in 6.006 CS course of MIT open course ware. I used Python 3.7 to code these algorithms.  
 
 | **File name** | **Description** |
 | ------------- | ------------- |
