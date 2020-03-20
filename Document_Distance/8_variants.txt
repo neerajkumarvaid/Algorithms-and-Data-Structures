@@ -1,2 +1,0 @@
-This folder contains 8 variants of an algorithm to compute distance between two documents containg some text. 
-The algorithms are increasingly efficinet implementations.
