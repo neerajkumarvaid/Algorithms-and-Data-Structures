@@ -6,4 +6,4 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 | [peakfinding_1D.py](https://github.com/neerajkumarvaid/Algorithm-and-Data-Structures-MIT-6.006/blob/master/peakfinding_1D.py) | Illustrates how to create classes in Python  |
 | [peakfinding_2D.py](https://github.com/neerajkumarvaid/Algorithm-and-Data-Structures-MIT-6.006/blob/master/peakfinding_2D.py) | Illustartes how to create bar, scatter and line plots. |
 | [Document_Distance](https://github.com/neerajkumarvaid/Algorithm-and-Data-Structures-MIT-6.006/tree/master/Document_Distance) | This folder contains 8 variants of an algorithm to compute distance between two documents containg some text. The algorithms are increasingly efficinet implementations|
-
+| [insertion_and_merge_sort.py](https://github.com/neerajkumarvaid/Algorithm-and-Data-Structures-MIT-6.006/tree/master/insertion_and_merge_sort.py) | An implementation of Insertion {O(n^2)} and Merge sort {O(n lg n)}.|
