@@ -13,5 +13,6 @@ This repository contains my implementation of the algorithms discussed in 6.006 
   
 # Practice Problems
 | **File name** | **Description** |
+| ------------- | ------------- |
 | [Fibonacci_Memoization.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Fibonacci_Memoization.ipynb) | A recursive implementation Fibonacci series generator, its limitation and solution through memoization.|
 
