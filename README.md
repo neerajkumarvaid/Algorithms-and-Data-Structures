@@ -15,4 +15,5 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 | **File name** | **Description** |
 | ------------- | ------------- |
 | [Fibonacci_Memoization.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Fibonacci_Memoization.ipynb) | A recursive implementation Fibonacci series generator, its limitation and solution through memoization.|
+| [RandomWalk_MonteCarlo.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/RandomWalk_MonteCarlo.ipynb) | What is the largest random walk for which no transport (<=4) will be required to return home?|
 
