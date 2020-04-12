@@ -11,7 +11,7 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 | [Counting_and_Radix_Sort.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Counting_and_Radix_Sort.ipynb) | An implementation of the Counting Sort and Radix sort algorithms ~ {O(n)}.|
 | [Karp-Rabin.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Karp-Rabin.ipynb) | An implementation of the Karp-Rabin algorithm for string matching in Python.|
 | [Karatsuba_Multiplication.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Karatsuba_Multiplication.ipynb) | An implementation of the Karatsuba algorithm for faster multiplication ~O(n^1.585).|
- | [Newton-Raphson-Method.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Newton-Raphson-Method.ipynb) | An implementation of the Karatsuba algorithm for faster multiplication ~O(n^1.585).|
+ | [Newton-Raphson-Method.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Newton-Raphson-Method.ipynb) | An implementation of the Newton-Raphson algorithm for finding roots of a polynomial equation.|
  
 # Practice Problems
 | **File name** | **Description** |
