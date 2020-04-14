@@ -12,7 +12,7 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 | [Karp-Rabin.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Karp-Rabin.ipynb) | An implementation of the Karp-Rabin algorithm for string matching in Python.|
 | [Karatsuba_Multiplication.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Karatsuba_Multiplication.ipynb) | An implementation of the Karatsuba algorithm for faster multiplication ~O(n^1.585).|
  | [Newton-Raphson-Method.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Newton-Raphson-Method.ipynb) | An implementation of the Newton-Raphson algorithm for finding roots of a polynomial equation.|
- | [Breadth_First_Traversal.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Breadth_First_Traversal.ipynb) | An implementation of the Newton-Raphson algorithm for finding roots of a polynomial equation.|
+ | [Breadth_First_Traversal.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Breadth_First_Traversal.ipynb) | An implementation of breadth first search (or traversal) in a given graph 'G' from a given source vetex 's'.|
  
 
 # Practice Problems
