@@ -3,8 +3,8 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 
 | **S.No.**| **File name** | **Description** |
 | :-------------: | ------------- | ------------- |
-|1|| [peakfinding_1D.py](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/blob/master/peakfinding_1D.py) | Illustrates how to create classes in Python  |
-|2|| [peakfinding_2D.py](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/blob/master/peakfinding_2D.py) | Illustartes how to create bar, scatter and line plots. |
+|1 | [peakfinding_1D.py](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/blob/master/peakfinding_1D.py) | Illustrates how to create classes in Python  |
+|2 | [peakfinding_2D.py](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/blob/master/peakfinding_2D.py) | Illustartes how to create bar, scatter and line plots. |
 |3|| [Document_Distance](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Document_Distance) | This folder contains 8 variants of an algorithm to compute distance between two documents containg some text. The algorithms are increasingly efficinet implementations|
 |4|| [insertion_and_merge_sort.py](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/insertion_and_merge_sort.py) | An implementation of Insertion {O(n^2)} and Merge sort {O(n lg n)}.|
 |5|| [heap_sort.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/heap_sort.ipynb) | An implementation of Heap Sort algorithm {O(n lg n)}, Build-max-heap is {O(lg n)} and for loop within heap_sort is {O(n)}.|
