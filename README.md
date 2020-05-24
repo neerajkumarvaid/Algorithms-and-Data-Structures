@@ -14,7 +14,7 @@ This repository contains my implementation of the algorithms discussed in 6.006 
 |9 | [Newton-Raphson-Method.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Newton-Raphson-Method.ipynb) | An implementation of the Newton-Raphson algorithm for finding roots of a polynomial equation.|
 |10 | [Breadth_First_Traversal.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Breadth_First_Traversal.ipynb) | An implementation of breadth first search (or traversal) in a given graph 'G' from a given source vetex 's'.|
 |11 | [Depth_First_Search.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Depth_First_Search.ipynb) | An implementation of depth first search (or traversal) in a given graph 'G'.|
- 
+|12 | [Dijkstra_shortest_path.ipynb](https://github.com/neerajkumarvaid/Algorithms-and-Data-Structures/tree/master/Dijkstra_shortest_path.ipynb) | An implementation of Dijkstra's single source shortest path algorithm in a given graph 'G'.| 
 
 # Practice Problems
 | **S.No.**| **File name** | **Description** |
